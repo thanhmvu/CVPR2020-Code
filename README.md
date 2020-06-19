@@ -210,10 +210,8 @@ A list of CVPR 2020 Papers with open-source code, forked and translated from htt
 # Video target detection
 
 **Memory Enhanced Global-Local Aggregation for Video Object Detection**
-
-Paper: https://arxiv.org/abs/2003.12063
-
-Code: https://github.com/Scalsol/mega.pytorch
+- Paper: https://arxiv.org/abs/2003.12063
+- Code: https://github.com/Scalsol/mega.pytorch
 
 <a name="Object-Tracking"></a>
 
@@ -352,10 +350,8 @@ Code: https://github.com/Scalsol/mega.pytorch
 - Code: Not yet announced
 
 **BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation**
-
-Paper: https://arxiv.org/abs/2003.14031
-
-Code: https://github.com/Mooonside/BANet
+- Paper: https://arxiv.org/abs/2003.14031
+- Code: https://github.com/Mooonside/BANet
 
 <a name="VOS"></a>
 
@@ -787,8 +783,7 @@ Code: https://github.com/Mooonside/BANet
 - Paper: https://arxiv.org/abs/1911.12409
 - Code: https://github.com/shlizee/Predict-Cluster
 
-**Intra
-- and Inter-Action Understanding via Temporal Action Parsing**
+**Intra- and Inter-Action Understanding via Temporal Action Parsing**
 - Paper: https://arxiv.org/abs/2005.10229
 - Homepage and data set: https://sdolivia.github.io/TAPOS/
 
@@ -871,10 +866,8 @@ Code: https://github.com/Mooonside/BANet
 - Code：https://github.com/wkentaro/morefusion
 
 **EPOS: Estimating 6D Pose of Objects with Symmetries**
-
-Home page：http://cmp.felk.cvut.cz/epos
-
-Paper：https://arxiv.org/abs/2004.00605
+- Home page：http://cmp.felk.cvut.cz/epos
+- Paper：https://arxiv.org/abs/2004.00605
 
 **G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features**
 - Paper：https://arxiv.org/abs/2003.11089
@@ -1136,10 +1129,8 @@ Paper：https://arxiv.org/abs/2004.00605
 # Depth completion
 
 **Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End**
-
-Paper：https://arxiv.org/abs/2006.03349
-
-Code：https://github.com/abdo-eldesokey/pncnn
+- Paper：https://arxiv.org/abs/2006.03349
+- Code：https://github.com/abdo-eldesokey/pncnn
 
 <a name="SSC"></a>
 
@@ -1186,8 +1177,7 @@ Code：https://github.com/abdo-eldesokey/pncnn
 - Paper：https://arxiv.org/abs/1909.03403
 - Code：https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA
 
-**Intra
-- and Inter-Action Understanding via Temporal Action Parsing**
+**Intra- and Inter-Action Understanding via Temporal Action Parsing**
 - Paper：https://arxiv.org/abs/2005.10229
 - Home page和dataset：https://sdolivia.github.io/TAPOS/
 
