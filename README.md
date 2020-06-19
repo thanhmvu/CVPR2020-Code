@@ -1,8 +1,7 @@
 # CVPR2020-Code
 
-CVPR 2020 Paper open source project collection, at the same time welcome you to submit issues to share CVPR 2020 open source project
+A list of CVPR 2020 Papers with open-source code, forked and translated from https://github.com/amusi/CVPR2020-Code
 
-For previous CV conference papers (such as CVPR 2019, ICCV 2019, ECCV 2018) and other high-quality CV papers and inventory, please see: https://github.com/amusi/daily-paper-computer-vision
 - [CNN](#CNN)
 - [Image classification](#Image-Classification)
 - [Target Detection](#Object-Detection)
@@ -224,8 +223,7 @@ Code: https://github.com/Scalsol/mega.pytorch
 - Paper: https://arxiv.org/abs/1911.07241
 - Code: https://github.com/ohhhyeahhh/SiamCAR
 
-**D3S 
-- A Discriminative Single Shot Segmentation Tracker**
+**D3S -- A Discriminative Single Shot Segmentation Tracker**
 - Paper: https://arxiv.org/abs/1911.08862
 - Code: https://github.com/alanlukezic/d3s
 
@@ -526,7 +524,7 @@ Code: https://github.com/Mooonside/BANet
 
 ## 3D point cloud instance segmentation
 
-PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
+**PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation**
 - Paper: https://arxiv.org/abs/2004.01658
 - Code: https://github.com/Jia-Research-Lab/PointGroup
 
@@ -896,7 +894,7 @@ Paper：https://arxiv.org/abs/2004.00605
 
 <a name="Saliency"></a>
 
-# Significance test
+# Saliency Detection
 
 **JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection**
 - Paper：https://arxiv.org/abs/2004.08515
